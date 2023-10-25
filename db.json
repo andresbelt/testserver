@@ -1,11 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profiles": {
-    "name": "typicode"
-  }
+    "code": 200,
+    "message": null,
+    "responseResult": []
 }
